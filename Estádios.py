@@ -1,5 +1,5 @@
-# Faça um Crud das seleções de acordo com o pedido: id, país, grupo, confederação, treinador
-
+# Faça um Crud das seleções de acordo com o pedido: id, país, grupo, confederação, treinador.......
+# Bem vindo ao meu código
 '''
 1 Create — Cadastrar
  Solicitar todos os campos da entidade ao usuário;

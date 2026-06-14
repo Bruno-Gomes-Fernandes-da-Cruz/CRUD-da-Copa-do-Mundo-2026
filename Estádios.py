@@ -1,4 +1,4 @@
-# Faça um Crud das seleções de acordo com o pedido: id, país, grupo, confederação, treinador.......
+# Faça um Crud das seleções de acordo com o pedido: id, país, grupo, confederação, treinador-[==[~-+-/*]]////324536789765432456
 # Bem vindo ao meu código
 '''
 1 Create — Cadastrar

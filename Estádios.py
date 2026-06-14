@@ -1,5 +1,5 @@
-# Faça um Crud das seleções de acordo com o pedido: id, país, grupo, confederação, treinador
-
+# Faça um Crud das seleções de acordo com o pedido: id, país, grupo, confederação, treinador....................
+# Boa tarde galera
 from time import sleep
 
 selecoes = []

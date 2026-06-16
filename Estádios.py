@@ -129,7 +129,7 @@ def buscar_selecao():
                     sleep(1)
                     print("---"*35)
                     print(f"A seleção do(a) {i["País"]}:\n{i}")
-                    print("--"*36)
+                    print("----"*35)
             sleep(3)
             carregamento()
             menu_selecoes()        

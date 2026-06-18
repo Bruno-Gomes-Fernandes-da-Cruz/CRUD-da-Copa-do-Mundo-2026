@@ -51,7 +51,7 @@ def carregar_selecoes():
         return[]
         
 
-selecoes = carregar_selecoes()        # Esse selecoes depois do if serve para identificar se o selecoes está vazio ou nnão
+selecoes = carregar_selecoes()        # Esse selecoes depois do if serve para identificar se o selecoes está vazio ou não
 id = selecoes[-1]["ID"] + 1 if  selecoes else 1
 
 
